@@ -62,7 +62,7 @@ input[type]:focus {
     margin-top: 140px;
 }
 
-.abt {
+.tag {
     color: white;
     font-size: 35px;
 }
@@ -73,7 +73,86 @@ input[type]:focus {
     background-size: cover;
 }
 
-.crd {
+.card-view {
     background: rgb(211, 209, 209);
-    padding: 70px 0px 70px 0px;
+    padding: 50px 0px 50px 0px;
+}
+
+.card-bg {
+    background-image: url(../images/top.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fa-check {
+    color: purple;
+}
+
+.btn-color {
+    background: purple;
+}
+
+.btn-color:hover {
+    background: rgb(88, 5, 88);
+}
+
+.footer {
+    padding: 50px;
+}
+
+a {
+    color: rgb(66, 63, 63);
+}
+
+.fab {
+    border-radius: 50%;
+    background: rgb(49, 49, 49);
+    font-size: 20px;
+}
+
+.t:hover {
+    background: #38A1F3;
+}
+
+.y:hover {
+    background: rgb(197, 35, 20);
+}
+
+.f:hover {
+    background: #3b5998;
+}
+
+.l:hover {
+    background: #0077B5;
+}
+
+.i:hover {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+    ;
+}
+
+.fa-twitter {
+    padding: 10px;
+    color: white;
+}
+
+.fa-youtube {
+    padding: 10px;
+    color: white;
+}
+
+.fa-facebook-f {
+    padding: 10px;
+    color: white;
+}
+
+.fa-linkedin {
+    padding: 10px;
+    color: white;
+}
+
+.fa-instagram {
+    padding: 10px;
+    color: white;
 }
